@@ -1,3 +1,6 @@
+![capa](https://user-images.githubusercontent.com/88362465/150200831-12dae38b-dfdd-4998-b501-42b5d56d36b6.png)
+
+
 Projeto desenvolvido pela RocketSeat em uma das NLW;
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
